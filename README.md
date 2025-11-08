@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **develop game and small AI/ML projects**
 
-- 🌱 I’m currently learning **C#, ASP.Net Core, React**
+- 🌱 I’m currently learning **C++, DSA, AI/ML**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **Website Development**
+- 🤝 I’m looking for help with **C++ Software developer, AI/ML Engineer, Backend Developer**
 
-- 👨‍💻 All of my projects are available at [www.rasedul.io](www.rasedul.io)
+- 👨‍💻 All of my projects are available at under developing [www.rasedul.io](www.rasedul.io) 
 
-- 💬 Ask me about **Backend Developer**
+- 💬 Ask me about **C++ Software developer, AI/ML Engineer, Backend Developer**
 
 - 📫 How to reach me **mrashed14086@gmail.com**
 
