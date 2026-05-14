@@ -7,17 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **develop game and small AI/ML projects**
 
-- 🌱 I’m currently learning **C++, DSA, AI/ML**
-
-- 👯 I’m looking to collaborate on **Open source projects**
-
-- 🤝 I’m looking for help with **C++ Software developer, AI/ML Engineer, Backend Developer**
-
-- 💬 Ask me about **C++ Software developer, AI/ML Engineer, Backend Developer**
-
-- 📫 How to reach me **mrashed14086@gmail.com**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashed-22&show_icons=true&locale=en&layout=compact" alt="rashed-22" /></p>
